@@ -25,6 +25,7 @@ public class LoginGETServlet extends HttpServlet {
         out.println("<input type='text' name='user'/>");
 
         out.println("<br>");
+        out.println("<br>");
 
         out.println("<label>Pass:</label>");
         out.println("<input type='password' name='pass'/>");
